@@ -3,7 +3,7 @@
 Un piccolo gioco di **flashcard** per allenare la memoria dei nomi: vedi la foto di una
 persona, provi a ricordare come si chiama, poi giri la carta e scopri il nome.
 
-👉 **[Gioca online](#)** &nbsp;(link Vercel)
+👉 **[Gioca online »](https://ricorda-i-nomi.vercel.app)**
 
 ## Come si gioca
 - Guarda la **foto** → prova a indovinare il nome → tocca la carta (o **Gira**) per scoprirlo.
